@@ -199,6 +199,7 @@ input,select{border-radius:8px}
 .uyebant{border-radius:10px;border-width:1px}
 footer{background:#2d2c2c;color:#cfcfcf}.yasal{color:#9a9a9a}
 .alt .k{background:var(--z)}.alt .a{background:#2d2c2c}
+.plan{display:block;overflow-x:auto;border:1px solid var(--s);border-radius:10px;background:#fff;margin:14px 0}.plan img{min-width:980px;width:100%;max-width:none}
 /* ürün kartları ve filtre */
 .urunler{grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
 .urun{border-radius:8px;padding:12px 12px 14px;gap:4px;align-content:start}
