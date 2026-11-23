@@ -232,5 +232,6 @@ footer{background:#2d2c2c;color:#cfcfcf}.yasal{color:#9a9a9a}
   .serit{font-size:11.5px;letter-spacing:.04em;padding:10px}
   .hizli .ic{justify-content:flex-start;overflow-x:auto;scrollbar-width:none;padding-left:8px;padding-right:8px}.hizli .ic::-webkit-scrollbar{display:none}
   .hizli a{flex:none;width:96px;font-size:10.5px;padding:8px 4px}
+  .fy2{grid-template-columns:1fr}.fy2>span{grid-template-columns:auto 1fr;align-items:baseline;gap:6px}.fy2 s,.fy2 em{text-align:right}.ubtn{font-size:12.5px;padding:9px 4px}
   .urunler{grid-template-columns:repeat(2,1fr);gap:8px}.urun .ug{height:150px}.urun img{max-height:134px}.urun b{min-height:66px}
 }
